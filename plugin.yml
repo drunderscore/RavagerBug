@@ -1,0 +1,7 @@
+name: RavagerBug
+version: 1.0.0
+main: xyz.jame.ravagerbug.RavagerBug
+description: Investigate the Minecraft 1.14 Ravager knockback. (stun)
+commands:
+  rav:
+    description: Test command for ravager
